@@ -3,6 +3,8 @@ layout: page
 reviewed: 2023-02-17
 ---
 
+# Credit Cards
+
 We issue credit cards to members of staff who regularly need to make purchases on behalf of Freedom Church or Wildfire. It is important to note that cards issued by one entity should not be used to make purchases for the other. Under certain circumstances we also issue credit cards to volunteers, for example location leaders who are not employees of Freedom Church. In most cases, each card has a £5,000/month credit limit.
 
 **Warning:** As a cardholder, you are responsible for the security of your card, all spending on it and the monthly submission of invoices or itemised receipts.
