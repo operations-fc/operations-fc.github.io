@@ -1,5 +1,6 @@
 ---
 layout: page
+reviewed: 2023-02-17
 ---
 
 # Location Codes
@@ -37,3 +38,5 @@ We assign three-character codes to all campuses and other significant locations 
 
 - **CHS** - Charleston, USA
 - **RLH** - Raleigh, USA
+
+{% include footer.md reviewed=page.reviewed %}
