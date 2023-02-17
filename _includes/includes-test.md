@@ -1,1 +1,1 @@
-Date is {{ site.time | date_to_long_string }}
+This page was last reviewed on {{ include.reviewed | date: "%e %B %Y" }}.
