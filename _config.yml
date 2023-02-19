@@ -1,0 +1,5 @@
+collections:
+  general:
+    output: true
+  finance:
+    output: true
