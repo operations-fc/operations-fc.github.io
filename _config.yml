@@ -1,5 +1,11 @@
 collections:
-  general:
+  facilities:
     output: true
   finance:
+    output: true
+  general:
+    output: true
+  hr:
+    output: true
+  it:
     output: true
