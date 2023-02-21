@@ -9,3 +9,8 @@ collections:
     output: true
   it:
     output: true
+
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: true

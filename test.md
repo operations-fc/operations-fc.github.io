@@ -8,7 +8,7 @@ layout: page
 {% for general in site.general %}
   <li>
     <a href="{{ general.url }}">
-      {{ general.url }}
+      {{ general.title }}
     </a>
   </li>
 {% endfor %}
