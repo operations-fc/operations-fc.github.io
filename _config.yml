@@ -1,17 +1,17 @@
 collections:
-  facilities:
+  facilities_docs:
     output: true
     permalink: /:collection/:name
-  finance:
+  finance_docs:
     output: true
     permalink: /:collection/:name
-  general:
+  general_docs:
     output: true
     permalink: /:collection/:name
-  hr:
+  hr_docs:
     output: true
     permalink: /:collection/:name
-  it:
+  it_docs:
     output: true
     permalink: /:collection/:name
 
