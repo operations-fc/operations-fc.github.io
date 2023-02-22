@@ -1,19 +1,19 @@
 collections:
   facilities_docs:
     output: true
-    permalink: /:collection/:name
+    permalink: /facilities/:name
   finance_docs:
     output: true
-    permalink: /:collection/:name
+    permalink: /finance/:name
   general_docs:
     output: true
-    permalink: /:collection/:name
+    permalink: /general/:name
   hr_docs:
     output: true
-    permalink: /:collection/:name
+    permalink: /hr/:name
   it_docs:
     output: true
-    permalink: /:collection/:name
+    permalink: /it/:name
 
 titles_from_headings:
   enabled:     true
