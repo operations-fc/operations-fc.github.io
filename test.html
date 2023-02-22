@@ -8,7 +8,7 @@ layout: page
 
   {% if collection.label != "posts" %}
 
-    <h2><a href="#">{{ collection.title }}</a></h2>
+    <h2>{{ collection.title }} ({{ collection.docs.size }})</h2>
 
     <ul>
       {% for doc in collection.docs %}
