@@ -1,14 +1,19 @@
 collections:
   facilities:
     output: true
+    permalink: /:collection/:name
   finance:
     output: true
+    permalink: /:collection/:name
   general:
     output: true
+    permalink: /:collection/:name
   hr:
     output: true
+    permalink: /:collection/:name
   it:
     output: true
+    permalink: /:collection/:name
 
 titles_from_headings:
   enabled:     true
