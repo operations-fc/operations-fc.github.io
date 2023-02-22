@@ -6,7 +6,7 @@ layout: page
 
 {% for collection in site.collections %}
 
-  ## {{ collection.label }}
+  <h2><a href="{{ collection.directory }}">{{ collection.label }}</a></h2>
 
   <ul>
     {% for doc in collection.docs %}
