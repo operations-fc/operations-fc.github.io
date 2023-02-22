@@ -4,12 +4,14 @@ layout: page
 
 # Test
 
-<ul>
-{% for general_doc in site.general_docs %}
-  <li>
-    <a href="{{ general_doc.url }}">
-      {{ general_doc.title }}
-    </a>
-  </li>
+{% for collection in site.collections %}
+
+  ## {{ collection.label }}
+
+  <ul>
+    {% for doc in collection.docs %}
+      <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+    {% endfor %}
+  </ul>
+
 {% endfor %}
-</ul>
