@@ -6,12 +6,16 @@ layout: page
 
 {% for collection in site.collections %}
 
-  <h2><a href="{{ collection.directory }}">{{ collection.label }}</a></h2>
+  {% if collection.label != "posts" %}
 
-  <ul>
-    {% for doc in collection.docs %}
-      <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
-    {% endfor %}
-  </ul>
+    <h2><a href="#">{{ collection.title }}</a></h2>
+
+    <ul>
+      {% for doc in collection.docs %}
+        <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+      {% endfor %}
+    </ul>
+
+  {% endif %}
 
 {% endfor %}

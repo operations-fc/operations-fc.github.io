@@ -2,18 +2,23 @@ collections:
   facilities_docs:
     output: true
     permalink: /facilities/:name
+    title: Facilities
   finance_docs:
     output: true
     permalink: /finance/:name
+    title: Finance
   general_docs:
     output: true
     permalink: /general/:name
+    title: General
   hr_docs:
     output: true
     permalink: /hr/:name
+    title: HR
   it_docs:
     output: true
     permalink: /it/:name
+    title: IT
 
 titles_from_headings:
   enabled:     true
