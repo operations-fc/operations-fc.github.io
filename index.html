@@ -12,7 +12,9 @@ layout: page
 
     <ul>
       {% for doc in collection.docs %}
-        <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+        {% unless doc.internal %}
+          <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+        {% endunless %}
       {% endfor %}
     </ul>
 
