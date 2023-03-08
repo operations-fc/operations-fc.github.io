@@ -11,7 +11,7 @@ An aged receivables report is a record that shows unpaid invoice balances, along
 
 Each month, the operations team sends statements to 'customers' and provides aged receivables reports to budget holders. Interim reports can be requested at any time by emailing <operations@freedomchurch.cc>.
 
-Monthly statements are a helpful reminder, but it's expected that budget holders will use aged receivables reports to follow up overdue invoices personally.
+**Monthly statements are a helpful reminder, but it's expected that budget holders will use aged receivables reports to follow up overdue invoices personally.**
 
 Aged receivables reports are produced for relevant Freedom Church and Wildfire locations/departments, and include the following information for each outstanding invoice (or credit), grouped by customer:
 

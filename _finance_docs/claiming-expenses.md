@@ -16,7 +16,7 @@ To reclaim purchase expenses, you should submit a claim form, accompanied by ite
 
 If you are required to travel, we will reimburse your reasonable expenses, but this does not include travel to and from your home and your usual place of work. If you use your own car, you may claim mileage allowance at the rate of 25p per mile. No reservation for overnight accommodation or air travel may be made without the express prior written consent of the budget holder.
 
-**Warning:** Please note that expenses will only be reimbursed if they are approved by the budget holder after you have submitted your claim. You should therefore always seek permission before incurring any costs.
+**Please note that expenses will only be reimbursed if they are approved by the budget holder after you have submitted your claim. You should therefore always seek permission before incurring any costs.**
 
 All claims must be submitted using one of the following forms:
 
