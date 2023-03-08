@@ -3,7 +3,7 @@ layout: page
 reviewed: 2023-02-27
 ---
 
-# Aged Receivables Reports
+# Understanding Aged Receivables Reports
 
 Freedom Church and Wildfire may issue invoices for a number of reasons, including course fees, rent and room hire.
 

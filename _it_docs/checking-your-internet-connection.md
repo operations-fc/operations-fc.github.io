@@ -3,7 +3,7 @@ layout: page
 reviewed: 2023-02-21
 ---
 
-# Check Your Internet Connection
+# Checking Your Internet Connection
 
 If you suspect there's a problem with your internet connection, you can check the relevant service status page:
 
